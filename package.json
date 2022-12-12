@@ -21,7 +21,7 @@
   "homepage": "http://github.com/KindraKinney/Budget-Tracker",
   "dependencies": {
     "compression": "^1.7.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fund": "^1.0.0",
     "mongoose": "^5.9.9",
     "morgan": "^1.10.0"
